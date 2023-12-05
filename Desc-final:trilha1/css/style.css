@@ -384,6 +384,11 @@ span {
     text-decoration: none;
 }
 
+.footer .share p{
+    font-size: 1.7rem;
+    padding-top: 1rem;
+    color: var(--main-color);
+}
 .footer .share a:hover {
     background-color: var(--main-color);
 }
